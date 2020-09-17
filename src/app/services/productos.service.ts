@@ -51,9 +51,6 @@ export class ProductosService {
       this.filtrarProductos(termino)
     }
 
-
-
-
   }
 
   private filtrarProductos(termino: string) {
